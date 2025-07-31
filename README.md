@@ -1,1 +1,1 @@
-Creatd AKS cluster using terraform
+Created AKS cluster using terraform
