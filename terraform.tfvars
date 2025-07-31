@@ -1,0 +1,5 @@
+subscription_id      = "***************************"
+resource_group_name  = "aks-rg"
+location             = "East US"
+aks_cluster_name     = "aks-cluster"
+acr_name             = "myacrcontainer"
